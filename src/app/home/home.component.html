@@ -9,14 +9,14 @@
             The idea is to add a filter over the loaded data, so the user can filter this information more quickly over
             the
             data loaded.<br><br>
-            In the example we retrieve information using the Post Method: https://search.torre.co/people/_search', and
+            In the example we retrieve information using the Post Method: https://search.torre.co/people/_search, and
             we
             work with the results of the Search filtering the information with a SearchBar.</h5>
     </div>
 </div>
 <div class="container">
     <div class="row">
-        <table class="table table-striped">
+        <table class="table table-bordered bg-dark">
             <tr>
                 <div class="search-hero" style="margin: 10px;">
                     <input class="form-control" type="text" name="search" [(ngModel)]="searchText" autocomplete="off"
@@ -24,21 +24,24 @@
                 </div>
             </tr>
             <tbody>
-                <tr *ngFor="let job of jobsRetrieved | filter:searchText" (click)="onClick(job.name, job.professionalHeadline)">
-                    <table class="table">
-                        <tbody>
-                            <tr>
-                                <div class="row">
-                                    <div class=" col-md-4"> <img src="{{job.picture}}" height="60px" width="60px">
+                <tr *ngFor="let job of jobsRetrieved | filter:searchText"
+                    (click)="onClick(job.name, job.professionalHeadline)">
+                    <div class="container">
+                        <table class="table table-bordered">
+                            <tbody>
+                                <tr class="bg-success">
+                                    <div class="row">
+                                        <div class=" col-md-4"> <img src="{{job.picture}}" height="60px" width="60px">
+                                        </div>
+                                        <div class="display-4 "> {{job.name}} </div>
                                     </div>
-                                    <div class="display-4 "> {{job.name}} </div>
-                                </div>
-                            </tr>
-                            <tr class="display-6"> {{job.professionalHeadline}} </tr>
-                            <tr class="display-6"> {{job.locationname}} </tr>
-                            <tr class="display-6"> {{job.opportunities}} </tr>
-                        </tbody>
-                    </table>
+                                </tr>
+                                <tr class="display-5 table-success"> {{job.professionalHeadline}} </tr>
+                                <tr class="display-5 table-success"> {{job.locationName}} </tr>
+                                <tr></tr>
+                            </tbody>
+                        </table>
+                    </div>
                 </tr>
             </tbody>
         </table>

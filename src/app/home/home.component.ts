@@ -70,6 +70,7 @@ export class HomeComponent implements OnInit {
       aggregator: "no"
     }).then(response => {
       this.jobsRetrieved = response["results"];
+      console.log(this.jobsRetrieved);
     })
       .catch(error => console.log(error));
   }
