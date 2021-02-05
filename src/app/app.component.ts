@@ -14,22 +14,50 @@ export class AppComponent {
   postByID: Posts;
   postByUserID: Posts[];
   postedPost: Posts;
+  jobsRetrieved: any[];
+
+  searchText;
 
   constructor(private freeapiService: FreeapiService) { }
 
   ngOnInit() {
 
-    this.freeapiService.getPostByID()
+    this.onClickPost();
+    /*  this.freeapiService.postPeople({
+       offset: "A",
+       size: 30,
+       aggregator: "no"
+     }).then(response => this.jobsRetrieved = response.json())
+       .catch(error => console.log(error)); */
+
+
+    /* this.freeapiService.getPostByID('torrenegra')
       .subscribe(data => {
         this.postByID = data;
-      })
+      });
+
+    this.freeapiService.getOpportunitieByID()
+      .subscribe(data => {
+        this.postByID = data;
+      }) */
   }
 
   onClickPost() {
     this.freeapiService.postPeople({
       offset: "A",
+      size: 30,
+      aggregator: "no"
+    }).then(response => {
+      this.jobsRetrieved = response["results"];
+    })
+      .catch(error => console.log(error));
+  }
+
+  onClickOpportunities() {
+    this.freeapiService.postOpportunities({
+      offset: "A",
       size: 2,
-      aggregate: "remoter"
+      aggregate: "yes"
     }).then(response => console.log(response))
       .catch(error => console.log(error));
   }
