@@ -1,0 +1,1720 @@
+{
+    "aggregators": {},
+    "offset": 0,
+    "results": [
+        {
+            "context": {
+                "signaled": null
+            },
+            "_meta": {
+                "ranker": {
+                    "@type": "and",
+                    "rank": 1.0,
+                    "score": null,
+                    "and": [
+                        {
+                            "@type": "scorer",
+                            "rank": 116.0,
+                            "scorer": "weight",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "weight": 3186.255
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "completion",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "completion": 1.0
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "grammar",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "grammar": 1.0
+                                }
+                            }
+                        }
+                    ]
+                },
+                "filter": null
+            },
+            "compensations": {},
+            "locationName": "Provincia di Bergamo, Italy",
+            "name": "David Orban",
+            "openTo": [
+                "advising",
+                "freelance-gigs",
+                "hiring",
+                "mentoring"
+            ],
+            "picture": "https://starrgate.s3.amazonaws.com:443/users/abb39aae447197a94d84f3708742dd7af2db184a/profile_VwukAly.jpg",
+            "professionalHeadline": "Startup creation, fundraising and investment. Thriving in our jolting technological change.",
+            "remoter": true,
+            "skills": [
+                {
+                    "name": "Mergers and Acquisitions",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Marketing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Platform Evangelism",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Futurism",
+                    "weight": 5.2058
+                },
+                {
+                    "name": "Startup Fund Raising",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Video",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Localization",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Internet of Things",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Technology",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Teaching",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Investment Analysis",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Fundraising",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Venture Capital",
+                    "weight": 780.9324
+                },
+                {
+                    "name": "Forecasting",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Artificial intelligence",
+                    "weight": 57.0977
+                },
+                {
+                    "name": "Writing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Scientific Research",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Creativity",
+                    "weight": 85.0
+                },
+                {
+                    "name": "Research Skills",
+                    "weight": 14.7273
+                },
+                {
+                    "name": "Events Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Organization",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Tech Knowledge",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Business Development",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Energetic",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Public Speaking",
+                    "weight": 592.9445
+                },
+                {
+                    "name": "Languages",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Communication",
+                    "weight": 199.4132
+                },
+                {
+                    "name": "Details Oriented",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Entrepreneur",
+                    "weight": 42.5
+                },
+                {
+                    "name": "Mentoring",
+                    "weight": 43.8052
+                },
+                {
+                    "name": "Business Development",
+                    "weight": 14.7273
+                },
+                {
+                    "name": "Collaboration",
+                    "weight": 14.7273
+                },
+                {
+                    "name": "Visionary",
+                    "weight": 972.3613
+                },
+                {
+                    "name": "Innovative",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Results Oriented",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Leadership",
+                    "weight": 85.0
+                },
+                {
+                    "name": "Futurist",
+                    "weight": 99.5977
+                },
+                {
+                    "name": "Blockchain",
+                    "weight": 178.2151
+                },
+                {
+                    "name": "Early adopter",
+                    "weight": 0.0
+                }
+            ],
+            "subjectId": "9237",
+            "username": "davidorban",
+            "verified": true,
+            "weight": 3186.255
+        },
+        {
+            "context": {
+                "signaled": null
+            },
+            "_meta": {
+                "ranker": {
+                    "@type": "and",
+                    "rank": 2.0,
+                    "score": null,
+                    "and": [
+                        {
+                            "@type": "scorer",
+                            "rank": 371.0,
+                            "scorer": "weight",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "weight": 1768.6471
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "completion",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "completion": 1.0
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "grammar",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "grammar": 1.0
+                                }
+                            }
+                        }
+                    ]
+                },
+                "filter": null
+            },
+            "compensations": {
+                "freelancer": {
+                    "amount": 30.0,
+                    "currency": "USD$",
+                    "periodicity": "hourly"
+                },
+                "employee": {
+                    "amount": 40000.0,
+                    "currency": "USD$",
+                    "periodicity": "yearly"
+                }
+            },
+            "locationName": "Attica, Greece",
+            "name": "Natalia Gkioka",
+            "openTo": [
+                "advising",
+                "freelance-gigs",
+                "full-time-employment",
+                "part-time-employment"
+            ],
+            "picture": "https://starrgate.s3.amazonaws.com:443/users/7f80cbac256de1055013c6f81d7ed716a1826873/profile_3KFmtHe.jpg",
+            "professionalHeadline": "Senior Marketing & Business Development Leader",
+            "remoter": true,
+            "skills": [
+                {
+                    "name": "Revenue Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Team Leadership",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Team management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Community management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Analytics",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Web Analytics",
+                    "weight": 0.0
+                },
+                {
+                    "name": "SEM",
+                    "weight": 0.0
+                },
+                {
+                    "name": "SEO",
+                    "weight": 0.0
+                },
+                {
+                    "name": "e-mail marketing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "communication",
+                    "weight": 0.0
+                },
+                {
+                    "name": "team management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "account management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Customer Relationship Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Time Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Customer Support",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Interpersonal Skills",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Customer Focus",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Communication skills",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Customer care",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Customer Success",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Market Research",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Sales & Marketing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Digital Marketing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Social Media",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Social Media Strategy",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Remote work",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Digital Media",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Growth",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Writing skills",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Media Buying",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Sales",
+                    "weight": 42.5
+                },
+                {
+                    "name": "Account Management",
+                    "weight": 41.7003
+                },
+                {
+                    "name": "ProActive",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Media",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Strategy",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Innovation",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Entrepreneurship",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Efficiency",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Adaptability",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Early adopter",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Communications",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Project Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Management",
+                    "weight": 226.2608
+                },
+                {
+                    "name": "Strategic Thinking",
+                    "weight": 42.5
+                },
+                {
+                    "name": "Customer Service",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Creativity",
+                    "weight": 547.049
+                },
+                {
+                    "name": "Leadership",
+                    "weight": 226.2608
+                },
+                {
+                    "name": "Communication",
+                    "weight": 505.3488
+                },
+                {
+                    "name": "Marketing",
+                    "weight": 589.549
+                }
+            ],
+            "subjectId": "3838",
+            "username": "nataliagkioka",
+            "verified": true,
+            "weight": 1768.6471
+        },
+        {
+            "context": {
+                "signaled": null
+            },
+            "_meta": {
+                "ranker": {
+                    "@type": "and",
+                    "rank": 3.0,
+                    "score": null,
+                    "and": [
+                        {
+                            "@type": "scorer",
+                            "rank": 1288.0,
+                            "scorer": "weight",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "weight": 850.0
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "completion",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "completion": 1.0
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "grammar",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "grammar": 1.0
+                                }
+                            }
+                        }
+                    ]
+                },
+                "filter": null
+            },
+            "compensations": {
+                "freelancer": {
+                    "amount": 20.0,
+                    "currency": "USD$",
+                    "periodicity": "hourly"
+                },
+                "employee": {
+                    "amount": 24000.0,
+                    "currency": "USD$",
+                    "periodicity": "yearly"
+                }
+            },
+            "locationName": "Gujarat, India",
+            "name": "Krutarth Engineer",
+            "openTo": [
+                "advising",
+                "freelance-gigs",
+                "internships",
+                "full-time-employment",
+                "part-time-employment",
+                "mentoring"
+            ],
+            "picture": "https://starrgate.s3.amazonaws.com:443/users/feffd23ed3e662a2c1980a3dccee4c272da6fee0/profile_INy3Wgo.jpg",
+            "professionalHeadline": "Business Analyst",
+            "remoter": true,
+            "skills": [
+                {
+                    "name": "Team management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Programming",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Project Coordination",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Project Design",
+                    "weight": 283.3333
+                },
+                {
+                    "name": "Project Planning and Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Data Visualization",
+                    "weight": 283.3333
+                },
+                {
+                    "name": "Data analysis",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Business Analysis",
+                    "weight": 283.3333
+                }
+            ],
+            "subjectId": "541804",
+            "username": "krutarthengineer",
+            "verified": true,
+            "weight": 850.0
+        },
+        {
+            "context": {
+                "signaled": null
+            },
+            "_meta": {
+                "ranker": {
+                    "@type": "and",
+                    "rank": 3.0,
+                    "score": null,
+                    "and": [
+                        {
+                            "@type": "scorer",
+                            "rank": 1288.0,
+                            "scorer": "weight",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "weight": 850.0
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "completion",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "completion": 1.0
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "grammar",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "grammar": 1.0
+                                }
+                            }
+                        }
+                    ]
+                },
+                "filter": null
+            },
+            "compensations": {
+                "employee": {
+                    "amount": 25000.0,
+                    "currency": "USD$",
+                    "periodicity": "yearly"
+                }
+            },
+            "locationName": "Distrito Federal, Venezuela",
+            "name": "Antonella Pigna",
+            "openTo": [
+                "full-time-employment"
+            ],
+            "picture": "https://starrgate.s3.amazonaws.com:443/users/ab18e93e16e46504c1bcd47ec641626b81b6e6e4/profile_jo0NYuh.jpg",
+            "professionalHeadline": "Marketing Professional",
+            "remoter": true,
+            "skills": [
+                {
+                    "name": "Interpersonal Skills",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Presentation Skills",
+                    "weight": 283.3333
+                },
+                {
+                    "name": "Team work",
+                    "weight": 283.3333
+                },
+                {
+                    "name": "Marketing digital",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Brand Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Marketing Research",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Marketing Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Nielsen",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Market Analysis",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Competitor Analysis",
+                    "weight": 0.0
+                },
+                {
+                    "name": "In-store Marketing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Trade Marketing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Research And Development",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Retention Strategies",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Brand Awareness",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Adaptability",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Sales",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Sales Strategy",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Spaceman",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Consumer Behavior",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Customer Relationship Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "SAP Business One",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Excel",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Marketing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Project Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Campaign Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Brand Marketing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Strategic Thinking",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Communication",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Leadership skills",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Research and Analytical skills",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Business Intelligence",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Marketing Strategy",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Analytical Skills",
+                    "weight": 283.3333
+                },
+                {
+                    "name": "Quick learner",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Business Strategy",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Analytics",
+                    "weight": 0.0
+                }
+            ],
+            "subjectId": "404544",
+            "username": "pignaraulli",
+            "verified": true,
+            "weight": 850.0
+        },
+        {
+            "context": {
+                "signaled": null
+            },
+            "_meta": {
+                "ranker": {
+                    "@type": "and",
+                    "rank": 5.0,
+                    "score": null,
+                    "and": [
+                        {
+                            "@type": "scorer",
+                            "rank": 2797.0,
+                            "scorer": "weight",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "weight": 748.4622
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "completion",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "completion": 1.0
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "grammar",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "grammar": 1.0
+                                }
+                            }
+                        }
+                    ]
+                },
+                "filter": null
+            },
+            "compensations": {
+                "freelancer": {
+                    "amount": 50000.0,
+                    "currency": "USD$",
+                    "periodicity": "hourly"
+                },
+                "employee": {
+                    "amount": 40000.0,
+                    "currency": "USD$",
+                    "periodicity": "yearly"
+                }
+            },
+            "locationName": "Lagos, Nigeria",
+            "name": "Kunle",
+            "openTo": [
+                "advising",
+                "freelance-gigs",
+                "internships",
+                "full-time-employment",
+                "part-time-employment",
+                "mentoring"
+            ],
+            "picture": "https://starrgate.s3.amazonaws.com:443/users/021afd320b78e768050df8299948361fcbe1ff1e/profile_AqSR6ox.jpg",
+            "professionalHeadline": "Microsoft Certified Trainer",
+            "remoter": true,
+            "skills": [
+                {
+                    "name": "Computer skills",
+                    "weight": 32.9004
+                },
+                {
+                    "name": "Communication",
+                    "weight": 32.9004
+                },
+                {
+                    "name": "Leadership",
+                    "weight": 216.587
+                },
+                {
+                    "name": "Responsible",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Creativity",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Customer service",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Technical support",
+                    "weight": 32.9004
+                },
+                {
+                    "name": "Operations",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Customer Service",
+                    "weight": 216.587
+                },
+                {
+                    "name": "Technical Support",
+                    "weight": 216.587
+                }
+            ],
+            "subjectId": "630627",
+            "username": "kunlaoye",
+            "verified": true,
+            "weight": 748.4622
+        },
+        {
+            "context": {
+                "signaled": null
+            },
+            "_meta": {
+                "ranker": {
+                    "@type": "and",
+                    "rank": 6.0,
+                    "score": null,
+                    "and": [
+                        {
+                            "@type": "scorer",
+                            "rank": 3770.0,
+                            "scorer": "weight",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "weight": 33.341
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "completion",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "completion": 1.0
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "grammar",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "grammar": 1.0
+                                }
+                            }
+                        }
+                    ]
+                },
+                "filter": null
+            },
+            "compensations": {
+                "freelancer": {
+                    "amount": 300.0,
+                    "currency": "USD$",
+                    "periodicity": "monthly"
+                },
+                "employee": {
+                    "amount": 350.0,
+                    "currency": "USD$",
+                    "periodicity": "monthly"
+                }
+            },
+            "locationName": "Lagos, Nigeria",
+            "name": "Precious Oriaku",
+            "openTo": [
+                "advising",
+                "freelance-gigs",
+                "internships",
+                "full-time-employment",
+                "part-time-employment"
+            ],
+            "picture": "https://starrgate.s3.amazonaws.com:443/users/d824ee78dda25f360a2a8ebacd702ca1b59715b0/profile_ep3JEet.jpg",
+            "professionalHeadline": "Sales Representative, Content creator, Communicator",
+            "remoter": true,
+            "skills": [
+                {
+                    "name": "Online research",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Internet research",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Health education",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Salesforce",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Mentoring",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Creative",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Tutoring",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Writing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Content writing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Writing skills",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Customer support",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Detail oriented",
+                    "weight": 0.0
+                },
+                {
+                    "name": "B2C",
+                    "weight": 0.0
+                },
+                {
+                    "name": "B2B Sales",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Customer Success",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Business",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Marketing",
+                    "weight": 6.899
+                },
+                {
+                    "name": "Data Entry",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Customer Service",
+                    "weight": 8.8954
+                },
+                {
+                    "name": "Communication",
+                    "weight": 2.3353
+                },
+                {
+                    "name": "Sales",
+                    "weight": 11.1137
+                }
+            ],
+            "subjectId": "828161",
+            "username": "preciousoriaku85",
+            "verified": true,
+            "weight": 33.341
+        },
+        {
+            "context": {
+                "signaled": null
+            },
+            "_meta": {
+                "ranker": {
+                    "@type": "and",
+                    "rank": 7.0,
+                    "score": null,
+                    "and": [
+                        {
+                            "@type": "scorer",
+                            "rank": 5880.0,
+                            "scorer": "weight",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "weight": 0.8523
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "completion",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "completion": 1.0
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "grammar",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "grammar": 1.0
+                                }
+                            }
+                        }
+                    ]
+                },
+                "filter": null
+            },
+            "compensations": {
+                "freelancer": {
+                    "amount": 6.0,
+                    "currency": "USD$",
+                    "periodicity": "hourly"
+                },
+                "intern": {
+                    "amount": 6.0,
+                    "currency": "USD$",
+                    "periodicity": "hourly"
+                },
+                "employee": {
+                    "amount": 8.0,
+                    "currency": "USD$",
+                    "periodicity": "hourly"
+                }
+            },
+            "locationName": "Departamento de Bolivar, Colombia",
+            "name": "David Elias Llinas Giraldo",
+            "openTo": [
+                "advising",
+                "freelance-gigs",
+                "internships",
+                "full-time-employment",
+                "part-time-employment",
+                "mentoring"
+            ],
+            "picture": "https://starrgate.s3.amazonaws.com:443/users/3a6d5872115b1775b868f9443f1d6c138aaec2f3/profile_0lg4OHS.jpeg",
+            "professionalHeadline": "Account Executive",
+            "remoter": true,
+            "skills": [
+                {
+                    "name": "Supervisory management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Empowerment",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Leadership",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Quality assurance",
+                    "weight": 0.0
+                },
+                {
+                    "name": "KPI management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "KPI dashboards",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Customer Service",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Talent Acquisition",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Talent sourcing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Written Communication",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Growth hacking",
+                    "weight": 0.2841
+                },
+                {
+                    "name": "Marketing",
+                    "weight": 0.2841
+                },
+                {
+                    "name": "Sales",
+                    "weight": 0.2841
+                },
+                {
+                    "name": "Management",
+                    "weight": 0.0
+                }
+            ],
+            "subjectId": "22801",
+            "username": "davidllinas96",
+            "verified": false,
+            "weight": 0.8523
+        },
+        {
+            "context": {
+                "signaled": null
+            },
+            "_meta": {
+                "ranker": {
+                    "@type": "and",
+                    "rank": 8.0,
+                    "score": null,
+                    "and": [
+                        {
+                            "@type": "scorer",
+                            "rank": 6049.0,
+                            "scorer": "weight",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "weight": 0.0
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "completion",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "completion": 1.0
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "grammar",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "grammar": 1.0
+                                }
+                            }
+                        }
+                    ]
+                },
+                "filter": null
+            },
+            "compensations": {},
+            "locationName": "South Africa",
+            "name": "Catherine",
+            "openTo": [
+                "advising",
+                "freelance-gigs",
+                "internships",
+                "mentoring"
+            ],
+            "picture": "https://starrgate.s3.amazonaws.com:443/users/0cdaea1598a6c92cdcafa06d30956640d29a03dd/profile_euodsrU.jpg",
+            "professionalHeadline": "Ecologist",
+            "remoter": true,
+            "skills": [
+                {
+                    "name": "Critical thinking",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Laboratory Testing / Analysis",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Analytical Skills",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Strategic Thinking",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Creativity",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Analysis",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Writing skills",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Communication",
+                    "weight": 0.0
+                }
+            ],
+            "subjectId": "589014",
+            "username": "cat33zcb",
+            "verified": true,
+            "weight": 0.0
+        },
+        {
+            "context": {
+                "signaled": null
+            },
+            "_meta": {
+                "ranker": {
+                    "@type": "and",
+                    "rank": 8.0,
+                    "score": null,
+                    "and": [
+                        {
+                            "@type": "scorer",
+                            "rank": 6049.0,
+                            "scorer": "weight",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "weight": 0.0
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "completion",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "completion": 1.0
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "grammar",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "grammar": 1.0
+                                }
+                            }
+                        }
+                    ]
+                },
+                "filter": null
+            },
+            "compensations": {
+                "employee": {
+                    "amount": 60000.0,
+                    "currency": "USD$",
+                    "periodicity": "yearly"
+                }
+            },
+            "locationName": "Kerala, India",
+            "name": "John George",
+            "openTo": [
+                "advising",
+                "full-time-employment",
+                "mentoring"
+            ],
+            "picture": "https://starrgate.s3.amazonaws.com:443/users/74153cbc4c964ff1c2b9aff7b0ee0441dc4381ec/profile_zZFIcgl.jpg",
+            "professionalHeadline": "Associate Director-Digital Marketing, Operations Manager, Entrepreneur with a Mechanical Engineering and MBA in Lean Operations and Systems",
+            "remoter": false,
+            "skills": [
+                {
+                    "name": "Project Manager",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Marketing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Content Creation",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Web",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Growth",
+                    "weight": 0.0
+                },
+                {
+                    "name": "English",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Technical Support",
+                    "weight": 0.0
+                },
+                {
+                    "name": "social support",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Team worker",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Attention to details",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Listener",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Empathy",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Humility",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Organization",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Optimism",
+                    "weight": 0.0
+                },
+                {
+                    "name": "SEO",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Customer Focus",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Goal oriented",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Excellent Communicator",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Writing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Remote work",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Strategy",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Entrepreneurship",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Innovation",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Product Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Team Leadership",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Mechanical Engineering",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Digital marketing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "General Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "IT Operations Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Mobile App",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Sales",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Adaptability",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Founder",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Startup ideas",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Digital Marketing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Recruitment",
+                    "weight": 0.0
+                },
+                {
+                    "name": "People Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Manual Testing",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Communication",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Leadership",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Project Management",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Strategic Thinking",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Operations Management",
+                    "weight": 0.0
+                }
+            ],
+            "subjectId": "50303",
+            "username": "johngeorge",
+            "verified": true,
+            "weight": 0.0
+        },
+        {
+            "context": {
+                "signaled": null
+            },
+            "_meta": {
+                "ranker": {
+                    "@type": "and",
+                    "rank": 8.0,
+                    "score": null,
+                    "and": [
+                        {
+                            "@type": "scorer",
+                            "rank": 6049.0,
+                            "scorer": "weight",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "weight": 0.0
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "completion",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "completion": 1.0
+                                }
+                            }
+                        },
+                        {
+                            "@type": "scorer",
+                            "rank": 1.0,
+                            "scorer": "grammar",
+                            "score": null,
+                            "input": {
+                                "criteria": null,
+                                "person": {
+                                    "grammar": 1.0
+                                }
+                            }
+                        }
+                    ]
+                },
+                "filter": null
+            },
+            "compensations": {
+                "freelancer": {
+                    "amount": 150.0,
+                    "currency": "ZARR",
+                    "periodicity": "hourly"
+                }
+            },
+            "locationName": "Vaalpark, Sasolburg, South Africa",
+            "name": "Geraldine",
+            "openTo": [
+                "freelance-gigs"
+            ],
+            "picture": "https://starrgate.s3.amazonaws.com:443/users/3b38145de80418539bda5033f48cf174b07b3b87/profile_0R20UC4.jpg",
+            "professionalHeadline": "Administrator/ Office /PA /",
+            "remoter": true,
+            "skills": [
+                {
+                    "name": "Microsoft Office 365",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Computer Literacy",
+                    "weight": 0.0
+                },
+                {
+                    "name": "Management",
+                    "weight": 0.0
+                }
+            ],
+            "subjectId": "392748",
+            "username": "geraldineegel1986",
+            "verified": false,
+            "weight": 0.0
+        }
+    ],
+    "size": 10,
+    "total": 919444
+}

@@ -1,0 +1,46 @@
+<div class="jumbotron jumbotron-fluid text-justify">
+    <div class="container card-title">
+        <h5><strong>Torre Technical Test:</strong> The idea of the demo is to improve the way in which the users find
+            relevant
+            data when they are looking for information.<br><br>
+            What I saw, is that the search engine, brings a lot of information to the client side, so it takes time to
+            retrieve this information, situation that is increased when they want to add a filter and repeat the
+            process.<br><br>
+            The idea is to add a filter over the loaded data, so the user can filter this information more quickly over
+            the
+            data loaded.<br><br>
+            In the example we retrieve information using the Post Method: https://search.torre.co/people/_search', and
+            we
+            work with the results of the Search filtering the information with a SearchBar.</h5>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <table class="table table-striped">
+            <tr>
+                <div class="search-hero" style="margin: 10px;">
+                    <input class="form-control" type="text" name="search" [(ngModel)]="searchText" autocomplete="off"
+                        placeholder="&#128269;  Filter the retrieved information">
+                </div>
+            </tr>
+            <tbody>
+                <tr *ngFor="let job of jobsRetrieved | filter:searchText" (click)="onClick(job.name, job.professionalHeadline)">
+                    <table class="table">
+                        <tbody>
+                            <tr>
+                                <div class="row">
+                                    <div class=" col-md-4"> <img src="{{job.picture}}" height="60px" width="60px">
+                                    </div>
+                                    <div class="display-4 "> {{job.name}} </div>
+                                </div>
+                            </tr>
+                            <tr class="display-6"> {{job.professionalHeadline}} </tr>
+                            <tr class="display-6"> {{job.locationname}} </tr>
+                            <tr class="display-6"> {{job.opportunities}} </tr>
+                        </tbody>
+                    </table>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
